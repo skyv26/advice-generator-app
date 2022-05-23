@@ -46,8 +46,8 @@ function App() {
         <button className={classes.Button} onClick={generate}></button>
       </div>
     <footer className={classes.Attribution}>
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"><strong>Frontend Mentor</strong></a>. 
-      Made with ❤️ by <a href="https://twitter.com/vrma_aakash"><strong>Aakash Verma</strong></a>.
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer"><strong>Frontend Mentor</strong></a>. 
+      Made with ❤️ by <a href="https://twitter.com/vrma_aakash" rel="noreferrer"><strong>Aakash Verma</strong></a>.
     </footer>
     </main>
     </>
