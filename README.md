@@ -30,7 +30,7 @@ Users should be able to get random Advice by clicking on the button.
 ### Links
 
 - Solution URL: [Github](https://github.com/skyv26/advice-generator-app)
-- Live Site URL: [Github Pages](https://skyv26.github.io/advice-generator-app/)
+- Live Site URL: [Netlify](https://skyadvice.netlify.app/)
 
 ## My process
 
