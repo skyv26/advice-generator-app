@@ -43,7 +43,7 @@ function App() {
         }
         <img className={classes.MobileViewDivider} src={mobileDivider} alt="" />
         <img className={classes.TabViewDivider} src={desktopDivider} alt="" />
-        <button className={classes.Button} onClick={generate}></button>
+        <button className={classes.Button} onClick={generate} aria-label="generate advice"></button>
       </div>
     <footer className={classes.Attribution}>
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer"><strong>Frontend Mentor</strong></a>. 
