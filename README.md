@@ -23,11 +23,9 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 Users should be able to get random Advice by clicking on the button.
 
-- 
-
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./src/screenshot/desktop.png)
 
 ### Links
 
