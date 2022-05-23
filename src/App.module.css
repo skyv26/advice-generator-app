@@ -73,6 +73,7 @@
     padding: 5rem 5rem;
     padding-bottom: 7rem;
     border-radius: 1.4rem;
+    gap: 2.2rem;
   }
 
   .AdviceSerialNo {
@@ -82,7 +83,7 @@
   }
   
   .Advice {
-    font-size: 2.8rem;
+    font-size: 2.75rem;
     line-height: 3.8rem;
   }
 
