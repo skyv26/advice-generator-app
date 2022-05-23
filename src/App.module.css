@@ -1,9 +1,10 @@
 .Main {
-  display: grid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  height: 100%;
-  background-color: hsl(218, 23%, 16%);
-  place-items: center center;
+  min-height: 100%;
 }
 
 .AdviceContainer {
@@ -12,13 +13,12 @@
   flex-direction: column;
   gap: 2.5rem;
   width: 92%;
-  height: auto;
-  margin: auto;
   padding: 4rem 2.4rem;
   padding-bottom: 6rem;
   text-align: center;
   background-color: hsl(217, 19%, 24%);
   border-radius: 1rem;
+  margin: auto;
 }
 
 .AdviceSerialNo {
@@ -63,7 +63,7 @@
   box-shadow: 0 0 30px 5px hsl(150, 100%, 66%);
 }
 
-.Attribution { color: hsl(193, 38%, 86%); font-size: 12px; text-align: center; position: absolute; bottom: 2rem; letter-spacing: 0.1rem;}
+.Attribution { color: hsl(193, 38%, 86%); font-size: 12px; text-align: center; letter-spacing: 0.1rem;}
 .Attribution a { color: hsl(150, 100%, 66%); text-decoration: none; font-size: 1.4rem}
 
 @media (min-width: 700px) {

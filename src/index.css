@@ -14,5 +14,6 @@ body {
   display: grid;
   width: 100%;
   min-height: 100%;
+  background-color: hsl(218, 23%, 16%);
   margin: auto;
 }
